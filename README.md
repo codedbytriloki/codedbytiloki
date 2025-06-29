@@ -14,4 +14,4 @@ My introducation
 - JAVASCRIPT
 - GIT & GITHUB
 # Visit my GitHub profile
-<button text-decoration="none" background-color="blue">https://github.com/codedbytriloki</button>
+-https://github.com/codedbytriloki
