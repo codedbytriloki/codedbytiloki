@@ -6,7 +6,7 @@ My introducation
 -  I’m currently working on JavaScript projects and web apps
 -  I’m currently learning React, Node.js, and Firebase
 -  I’m looking to collaborate on "frontend projects"
--  Ask me about "HTML, CSS, JS, GitHub"
+-  Ask me about "HTML, CSS, JS, GitHub, React and Node js "
 -  How to reach me: "trilokisaini61@gmail.com"
 #Skills
 - HTML
