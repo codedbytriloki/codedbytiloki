@@ -13,5 +13,7 @@ My introducation
 - CSS
 - JAVASCRIPT
 - GIT & GITHUB
+- Node.js
+- React
 # Visit my GitHub profile
 -https://github.com/codedbytriloki
