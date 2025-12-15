@@ -1,7 +1,7 @@
 # codedbytiloki
 My introducation
 <h1 align="center">Hi 👋, I'm Triloki Saini</h1>
-<h3 align="center">Web Developer | BCA Student | JavaScript Learner</h3>
+<h3 align="center">Web Developer | BCA Student | Web Learner</h3>
 
 -  I’m currently working on JavaScript projects and web apps
 -  I’m currently learning React, Node.js, and Firebase
@@ -15,5 +15,6 @@ My introducation
 - GIT & GITHUB
 - Node.js
 - React
+- Typescript 
 # Visit my GitHub profile
 -https://github.com/codedbytriloki
