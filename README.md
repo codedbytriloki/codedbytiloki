@@ -1,6 +1,6 @@
 # codedbytiloki
 My introducation
-<h1 align="center">Hi 👋, I'm Triloki Saini</h1>
+<h1 align="center">Hi, I'm Triloki Saini</h1>
 <h3 align="center">Web Developer | BCA Student | Web Learner</h3>
 
 -  I’m currently working on JavaScript projects and web apps
